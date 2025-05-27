@@ -1,1 +1,1 @@
-Currently working on a NextJS + NodeJS + MongoDB based Second Brain app with analystics support and many more features. 
+Currently working on a NextJS + NodeJS + MongoDB based Second Brain app with analytics support and many more features. 
