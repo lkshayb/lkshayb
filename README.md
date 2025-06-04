@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi, I'm Lakshay 👋
 - I’m currently learning **NextJS**, **AWS**
 - Reach out to me at [08lakshay@gmail.com](mailto:lakshaygulati1898@gmail.com)
 
