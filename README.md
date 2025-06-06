@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lakshay 👋</h1>
 
 - I’m currently learning **Next.js** and **AWS**
-- Reach out to me at: [lakshaygulati1898@gmail.com](mailto:lakshaygulati1898@gmail.com)
+- Reach out to me at: [08lakshay@gmail.com](mailto:08lakshay@gmail.com)
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-bhatia-22340a246) &nbsp;&nbsp; [![ForkYou](https://img.shields.io/badge/ForkYou-8A2BE2)](https://forkyou.dev/user/lkshayb) &nbsp;&nbsp;  [![email](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:08lakshay@gmail.com)
