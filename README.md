@@ -1,6 +1,8 @@
-# Hi, I'm Lakshay 👋
-- I’m currently learning **NextJS**, **AWS**
-- Reach out to me at [08lakshay@gmail.com](mailto:lakshaygulati1898@gmail.com)
+<h1 align="center">Hi, I'm Lakshay 👋</h1>
+
+- I’m currently learning **Next.js** and **AWS**
+- Reach out to me at: [lakshaygulati1898@gmail.com](mailto:lakshaygulati1898@gmail.com)
+
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-bhatia-22340a246) &nbsp;&nbsp; [![ForkYou](https://img.shields.io/badge/ForkYou-8A2BE2)](https://forkyou.dev/user/lkshayb) &nbsp;&nbsp;  [![email](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:08lakshay@gmail.com)
 # <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x5a281YmFoNzIwemR1ZTdoYTRldDk4dnI0ZXRzcjBxNGl1MHd4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="45px" height="30px" align="top"/>Currently working on
