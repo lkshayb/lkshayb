@@ -4,7 +4,7 @@
 - Reach out to me at: [08lakshay@gmail.com](mailto:08lakshay@gmail.com)
 
 # 🌐 Find Me On
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-bhatia-22340a246) &nbsp;&nbsp; [![ForkYou](https://img.shields.io/badge/ForkYou-8A2BE2)](https://forkyou.dev/user/lkshayb) &nbsp;&nbsp;  [![email](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:08lakshay@gmail.com)&nbsp;&nbsp; [![MonkeyType](https://img.shields.io/badge/MonkeyType-FFF000)](https://monkeytype.com/profile/aspect3012)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-bhatia-22340a246) &nbsp;&nbsp; [![ForkYou](https://img.shields.io/badge/ForkYou-805412)](https://forkyou.dev/user/lkshayb) &nbsp;&nbsp;  [![email](https://img.shields.io/badge/Gmail-black?logo=gmail&logoColor=red)](mailto:08lakshay@gmail.com)&nbsp;&nbsp; [![MonkeyType](https://img.shields.io/badge/MonkeyType-5e5e56?logo=monkeytype)](https://monkeytype.com/profile/aspect3012)
 
 # <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x5a281YmFoNzIwemR1ZTdoYTRldDk4dnI0ZXRzcjBxNGl1MHd4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="45px" height="30px" align="top"/>Currently working on
 - [TalkSpace](https://talkspace-ivory.vercel.app/) - Real time room based ChatApp.
