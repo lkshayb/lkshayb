@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-bhatia-22340a246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lkshayb)
 &nbsp;
 [![ForkYou](https://img.shields.io/badge/ForkYou-805412)](https://forkyou.dev/user/lkshayb)
 &nbsp;
