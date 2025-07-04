@@ -12,7 +12,7 @@
 [![MonkeyType](https://img.shields.io/badge/MonkeyType-5e5e56?logo=monkeytype)](https://monkeytype.com/profile/aspect3012)
 
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhoy21&label=Profile%20views&color=0e75b6&style=flat" alt="abhoy21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lkshayb&label=Profile%20views&color=0e75b6&style=flat" alt="lkshayb" /> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkshayb&layout=donut&theme=radical" alt="lkshayb" />
