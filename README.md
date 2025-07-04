@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Lakshay 👋 
 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lkshayb&label=Profile%20views&color=0e75b6&style=flat" alt="lkshayb" /> </p>
 
 
 <div align="center">
