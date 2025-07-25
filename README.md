@@ -14,7 +14,7 @@
 </div>
 
 
-<p align="center">
+
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkshayb&layout=compact&theme=radical" alt="Top Languages" />
   
@@ -23,6 +23,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lkshayb&theme=radical" alt="GitHub Streak" />
   
   <img src="https://github-contributor-stats.vercel.app/api?username=lkshayb&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</p>
 
 
