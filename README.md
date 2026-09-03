@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkshayb&label=Profile%20views&color=0e75b6&style=flat" alt="lkshayb" /> </p>
 
-- 📫 How to reach me **08lakshay@gmail.com**
+- How to reach me **08lakshay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lkshayb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lkshayb" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/08lakshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="08lakshay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lkshayb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aspect30" height="30" width="40" /></a>
 </p>
 
